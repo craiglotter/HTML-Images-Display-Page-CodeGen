@@ -1,0 +1,10 @@
+application_name = HTML Images Display Page CodeGen 1.0
+application_excutable = HTML Images Display Page CodeGen.exe
+application_icon = Application_Icon.ico
+application_splashimage = splash_image.jpg
+application_netmajorversion = 1
+application_netminorversion = 0
+application_buildnumber = 4323
+application_colour = 808080
+application_forecolour = FFFFFF
+application_download = http://www.commerce.uct.ac.za/Commerce_IT/Support/Utilities/Files/DotNetFramework/dotnetfx.exe
